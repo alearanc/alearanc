@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there👋
 
+I'm currently working in QA testing, but I'm still learning about programming because it's my first passion.
 <!--
 **alearanc/alearanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
